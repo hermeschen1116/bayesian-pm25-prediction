@@ -337,3 +337,6 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,
 nnn
+
+# project file
+full_dataset.csv
