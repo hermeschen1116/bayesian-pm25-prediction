@@ -339,4 +339,4 @@ pyrightconfig.json
 nnn
 
 # project file
-full_dataset.csv
+full_dataset_*.csv
